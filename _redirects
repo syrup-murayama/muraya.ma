@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://affectionate-murdock-ce8ed1.netlify.com/* https://blog.muraya.ma/:splat 301!
