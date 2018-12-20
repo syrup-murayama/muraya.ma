@@ -29,6 +29,8 @@ googleAnalytics = ""
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   email = "studio@muraya.ma"
+  # Enable Google tag manager by entering your tracking code
+  googleTagManager = "GTM-K55JH6T"
 
   # Nav links in the side bar
   [[params.navlinks]]
