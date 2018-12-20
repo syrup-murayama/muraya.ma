@@ -14,7 +14,8 @@ googleAnalytics = ""
   description = "村山写真事務所は、温かくて懐かしい写真を愛するふたりが営む広告写真の制作ユニットです。撮影とレタッチ・現像それぞれの工程において専門性を持ち、撮影中の空気感を大切にしています。また、作品制作や写真を通して人をほんのり幸せにする社会貢献の活動も行っています。"
   copyright = "&copy;2018-2019 村山写真事務所"
   sidebarAbout = [
-    "村山写真事務所"
+    "こちらは2019年1月オープン予定の村山写真事務所ウェブサイトです。",
+    "準備中ですが、プレ公開でお届けします。"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
