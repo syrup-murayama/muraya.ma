@@ -186,7 +186,7 @@ showonlyimage = false
 #### Special Thanks
 
 * 美しい印刷で仕上げてくださった[加藤文明社 atelier gray](http://www.ateliergray.jp/)
-* 素敵なブーケをアレンジしてくださった[カトリエム](http://www.quatrieme.net/)
+* 素敵な花輪をアレンジしてくださった[カトリエム](http://www.quatrieme.net/)
 * いつも私達に元気をくれるおばあちゃん
 * 家族みんなに元気をくれるこどもたち
 * いつも応援してくださる皆さま
