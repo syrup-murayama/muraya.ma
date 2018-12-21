@@ -1,5 +1,5 @@
 ---
-title: "本に恋する書店 文喫のすごいところ"
+title: "本に恋する書店 文喫のずるいところ"
 date: 2018-12-21T10:19:36+09:00
 draft: false
 image: "img/letter/bunkitsu.jpg"
