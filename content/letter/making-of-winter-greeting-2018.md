@@ -4,6 +4,7 @@ title = "一年の感謝を込めて"
 draft = false
 image = "img/letter/greeting2018winter.jpg"
 showonlyimage = false
+weight = 1
 +++
 
 
